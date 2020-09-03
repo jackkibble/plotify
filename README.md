@@ -2,6 +2,8 @@
 
 An interview task created by Polymathian.
 
+Completed by: <Your name>
+
 ## License
 
 Copyright 2020 Polymathian
@@ -22,6 +24,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS "AS IS" AND ANY EXPRESS OR IM
 
 ## Setup
 1. Create a private fork of this repo
+1. Fill in your name at the top of this readme
 1. Install the required Python packages listed in `requirements.txt`
 1. Build the JavaScript
     - Enter `plotify/static`
