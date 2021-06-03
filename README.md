@@ -81,4 +81,5 @@ When an attribute is selected from the dropdown, the chart should show how many 
 - You will be assessed based on:
    - Completion of the task
    - Code quality, security, and maintainability
+- We will test against a different (and much larger) database than the sample included in this repo
 - The chart will look nicer if you set all the `chartArea` options to `100`
